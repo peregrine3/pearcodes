@@ -1,6 +1,16 @@
 # pearcodes
 code storage
 
-<a href="https://peregrine3.github.io/pearcodes/perecard_vexx.css">something here</a>
+<!DOCTYPE HTML>
+<head>
 
-here is some other stuff
+</head>
+  
+  <body>
+  
+  <p><a href="https://peregrine3.github.io/pearcodes/perecard_vexx.css">something here</a></p>
+    
+  <p>here is some other stuff</p>
+  
+  </body>
+
